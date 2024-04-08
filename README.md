@@ -5,16 +5,16 @@ Through a graphics user interface, the ACTION aims to provide users with compreh
 
 Developed by Yuqi Fang, Junhao Zhang, Linmin Wang, Qianqian Wang, Mingxia Liu
 
-# Module 1 FMRI Data Augmentation
+# 1 FMRI Data Augmentation
 ## 1.1 BOLD Signal Augmentation 
  
 ## 1.2 Brain Network/Graph Data Augmentation
 
-# Module 2 Brain Network Construction
+# 2 Brain Network Construction
 
-# Module 3 Brain Network Feature Extraction
+# 3 Brain Network Feature Extraction
 
-# Module 4 Artificial Intelligence Model Construction
+# 4 Artificial Intelligence Model Construction
 
 ## 4.1 Machine Learning Model Construction 
   
