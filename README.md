@@ -31,7 +31,7 @@ This project focuses on pretraining foundation models that can easily adapt to d
 The feature encoders of these models are pretrained on 3,806 unlabeled fMRI scans from public cohorts in a self-supervised learning manner. 
 In each directory, the `Pretrain_XXX.py` and `Finetune_XXX.py` scripts are the main functions for pretraining and fine-tuning a specific encoder, respectively.
 
-### Pretrained Encoders
+### Pretrained Foundation Model
 
 In this project, we pretrain several popular encoders on auxiliary fMRI scans. The pretrained encoders include:
 
