@@ -16,7 +16,7 @@ Through a graphics user interface, the ACTION aims to provide users with compreh
 
 ## 4.1 Machine Learning Model Construction 
   
-## Overview
+### Overview
 
   (1) SVM/SVR
   
@@ -28,12 +28,12 @@ Through a graphics user interface, the ACTION aims to provide users with compreh
   
 
 ## 4.2 Deep Learning-based Foundation Model Construction
-## Overview
+### Overview
 
 This project focuses on pretraining foundation models that can easily adapt to downstream tasks for fMRI analysis.
 In each directory, the `Pretrain_XXX.py` and `Finetune_XXX.py` scripts are the main functions for pretraining and fine-tuning a specific encoder, respectively.
 
-## Pretrained Encoders
+### Pretrained Encoders
 
 In this project, we pretrain several popular encoders on auxiliary fMRI scans. The pretrained encoders include:
 
