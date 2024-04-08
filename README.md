@@ -4,9 +4,9 @@ The Augmentation and Computation Toolbox for braIn netwOrk aNalysis (ACTION) is 
 Through a graphics user interface, the ACTION aims to provide users with comprehensive, convenient, and easy-to-use fMRI data analysis services, helping users simplify the processing pipeline and improve work efficiency.
 
 # Module 1 FMRI Data Augmentation
-  1.1 BOLD Signal Augmentation 
+  ## 1.1 BOLD Signal Augmentation 
  
-  1.2 Brain Network/Graph Data Augmentation
+  ## 1.2 Brain Network/Graph Data Augmentation
 
 # Module 2 Brain Network Construction
 
