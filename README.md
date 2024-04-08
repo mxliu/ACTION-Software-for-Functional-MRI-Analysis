@@ -42,7 +42,7 @@ In this project, we pretrain several popular encoders on auxiliary fMRI scans. T
 5. BrainNetCNN
 6. Spatio-Temporal Attention Graph Isomorphism Network (STAGIN)
 7. Spatio-Temporal Graph Convolutional Network (STGCN)
-8. GraphSAGE
+8. Graph SAmple and aggreGatE (GraphSAGE) 
 9. Transformer
 10. Modularity-constrained Graph Neural Network (MGNN)
 
