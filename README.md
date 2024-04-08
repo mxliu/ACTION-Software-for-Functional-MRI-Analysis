@@ -4,9 +4,9 @@ The Augmentation and Computation Toolbox for braIn netwOrk aNalysis (ACTION) is 
 Through a graphics user interface, the ACTION aims to provide users with comprehensive, convenient, and easy-to-use fMRI data analysis services, helping users simplify the processing pipeline and improve work efficiency.
 
 # Module 1 FMRI Data Augmentation
-  ## 1.1 BOLD Signal Augmentation 
+  1.1 BOLD Signal Augmentation 
  
-  ## 1.2 Brain Network/Graph Data Augmentation
+  1.2 Brain Network/Graph Data Augmentation
 
 # Module 2 Brain Network Construction
 
@@ -49,7 +49,7 @@ In this project, we pretrain several popular encoders on auxiliary fMRI scans. T
 10. Modularity-constrained Graph Neural Network (MGNN)
 
 
-## Usage
+### Usage
 You can fine-tune pretrained encoders for various fMRI-based analysis.
 Note that the `Finetune_XXX.py` script is just an example of how to finetune our pretrained encoders for classification tasks, and one can modify this code according to different downstream tasks.
 
