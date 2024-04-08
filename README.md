@@ -5,18 +5,18 @@ Through a graphics user interface, the ACTION aims to provide users with compreh
 
 Developed by Yuqi Fang, Junhao Zhang, Linmin Wang, Qianqian Wang, Mingxia Liu
 
-# 1 FMRI Data Augmentation
-## 1.1 BOLD Signal Augmentation 
+# 1. FMRI Data Augmentation
+## 1.1. BOLD Signal Augmentation 
  
-## 1.2 Brain Network/Graph Data Augmentation
+## 1.2. Brain Network/Graph Data Augmentation
 
-# 2 Brain Network Construction
+# 2. Brain Network Construction
 
-# 3 Brain Network Feature Extraction
+# 3. Brain Network Feature Extraction
 
-# 4 Artificial Intelligence Model Construction
+# 4. Artificial Intelligence Model Construction
 
-## 4.1 Machine Learning Model Construction 
+## 4.1. Machine Learning Model Construction 
   
 ### Overview
 
@@ -26,7 +26,7 @@ Developed by Yuqi Fang, Junhao Zhang, Linmin Wang, Qianqian Wang, Mingxia Liu
 4. K-Nearest Neighbors (KNN)
   
 
-## 4.2 Deep Learning-based Foundation Model Construction
+## 4.2. Deep Learning-based Foundation Model Construction
 ### Overview
 
 This project focuses on pretraining foundation models that can easily adapt to downstream tasks for fMRI analysis. 
