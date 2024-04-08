@@ -15,10 +15,15 @@ Through a graphics user interface, the ACTION aims to provide users with compreh
 # Module 4 Artificial Intelligence Model Construction
 
   4.1 Machine Learning Model Construction 
+  
 ## Overview
+
   (1) SVM/SVR
+  
   (2) Random Forest
+  
   (3) Extreme Gradient Boosting (XGBoost)
+  
   (4) K-Nearest Neighbors (KNN)
   
 
