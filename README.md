@@ -4,8 +4,9 @@ The Augmentation and Computation Toolbox for braIn netwOrk aNalysis (ACTION) is 
 Through a graphics user interface, the ACTION aims to provide users with comprehensive, convenient, and easy-to-use fMRI data analysis services, helping users simplify the processing pipeline and improve work efficiency.
 
 # Module 1 FMRI Data Augmentation
- 1.1 BOLD Signal Augmentation
- 1.2 Brain Network/Graph Data Augmentation
+  1.1 BOLD Signal Augmentation 
+ 
+  1.2 Brain Network/Graph Data Augmentation
 
 # Module 2 Brain Network Construction
 
@@ -13,9 +14,15 @@ Through a graphics user interface, the ACTION aims to provide users with compreh
 
 # Module 4 Artificial Intelligence Model Construction
 
-4.1 Machine Learning Model Construction 
+  4.1 Machine Learning Model Construction 
+## Overview
+  (1) SVM/SVR
+  (2) Random Forest
+  (3) Extreme Gradient Boosting (XGBoost)
+  (4) K-Nearest Neighbors (KNN)
+  
 
-4.2 Deep Learning-based Foundation Model Construction
+  4.2 Deep Learning-based Foundation Model Construction
 ## Overview
 
 This project focuses on pretraining foundation models that can easily adapt to downstream tasks for fMRI analysis.
