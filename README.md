@@ -14,7 +14,7 @@ Through a graphics user interface, the ACTION aims to provide users with compreh
 
 # Module 4 Artificial Intelligence Model Construction
 
-  4.1 Machine Learning Model Construction 
+## 4.1 Machine Learning Model Construction 
   
 ## Overview
 
@@ -27,7 +27,7 @@ Through a graphics user interface, the ACTION aims to provide users with compreh
   (4) K-Nearest Neighbors (KNN)
   
 
-  4.2 Deep Learning-based Foundation Model Construction
+## 4.2 Deep Learning-based Foundation Model Construction
 ## Overview
 
 This project focuses on pretraining foundation models that can easily adapt to downstream tasks for fMRI analysis.
