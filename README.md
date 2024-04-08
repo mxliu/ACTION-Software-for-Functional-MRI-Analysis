@@ -63,3 +63,11 @@ Acknowledgments to the following public projects:
 [GraphSAGE](https://github.com/williamleif/graphsage-simple),
 [STAGIN](https://github.com/egyptdj/stagin),
 [STGCN](https://github.com/sgadgil6/cnslab_fmri).
+
+
+# License
+The University of North Carolina at Chapel Hill (UNC-CH) holds all rights to the ACTION software, which is available at no cost for users in academia. 
+Individuals are permitted to distribute and modify ACTION under the conditions of the GNU General Public License issued by the Free Software Foundation. 
+Commercial or industrial entities interested in utilizing ACTION must reach out to both the University and the tool's author for permission. 
+While ACTION is provided with the hope of being beneficial, it comes with no guarantees, including no implied warranties of being sellable or suitable for any specific use. 
+Please refer to the GNU General Public License (\url{https://www.gnu.org/licenses/licenses.html#GPL}) for further information. 
