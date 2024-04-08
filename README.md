@@ -27,7 +27,8 @@ Through a graphics user interface, the ACTION aims to provide users with compreh
 ## 4.2 Deep Learning-based Foundation Model Construction
 ### Overview
 
-This project focuses on pretraining foundation models that can easily adapt to downstream tasks for fMRI analysis.
+This project focuses on pretraining foundation models that can easily adapt to downstream tasks for fMRI analysis. 
+The feature encoders of these models are pretrained on 3,806 unlabeled fMRI scans from public cohorts in a self-supervised learning manner. 
 In each directory, the `Pretrain_XXX.py` and `Finetune_XXX.py` scripts are the main functions for pretraining and fine-tuning a specific encoder, respectively.
 
 ### Pretrained Encoders
