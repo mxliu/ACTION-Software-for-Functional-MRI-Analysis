@@ -15,7 +15,7 @@ Software Download: https://mingxia.web.unc.edu/action/
 3. Slicing
 4. Noise Jittering
  
-## 1.2. Brain Network/Graph Data Augmentation
+## 1.2. Graph Data Augmentation
 
 1. Random Node Dropping
 2. Hub-Preserving Node Dropping
