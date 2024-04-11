@@ -69,7 +69,7 @@ This module focuses on (1) pretraining foundation models that can easily adapt t
 
 ### Pretrained Foundation Model
 
-In this project, we pretrain several popular encoders on auxiliary fMRI scans. The pretrained encoders include:
+In this project, we pretrain several popular graph convolutional networks on auxiliary fMRI scans. The pretrained models include:
 
 1. Graph Convolutional Network (GCN)
 2. Graph Attention Network (GAT)
@@ -83,6 +83,8 @@ In this project, we pretrain several popular encoders on auxiliary fMRI scans. T
 10. Modularity-constrained Graph Neural Network (MGNN)
 
 ### Federated Learning Strategy
+
+To faciliate multi-site fMRI research, this toolbox also includes popular federated learning algorithms (with a default GCN model as backbone):
 1. Federated Averaging (FedAvg)
 2. Federated Proximal (FedProx)
 3. Model-contrastive federated learning (MOON)
