@@ -21,7 +21,7 @@ Software Download: https://mingxia.web.unc.edu/action/
 2. Hub-Preserving Node Dropping
 3. Random Edge Perturbation
 4. Weight-Dependent Edge Removal
-5. Subgraph Cropping:
+5. Subgraph Cropping
 
 # 2. Brain Network Construction
 
