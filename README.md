@@ -101,15 +101,15 @@ including fMRI time series with shape of (nsub,nlength,nroi) and label with the 
 - For 'BrainGNN', please input your to-be-analyzed data in `BrainGNN_data.py`,
 including fMRI time series with shape of (nsub,nlength,nroi) and label with the shape of (nsub,).
 
-Ensure that your data includes fMRI time series with a shape of (nsub, nlength, nroi) and labels with a shape of (nsub,), where:
--- `nsub`: the number of subjects
+2. For model fine-tunning, please ensure that your data includes fMRI time series with a shape of (nsub, nlength, nroi) and labels with a shape of (nsub,), where:
+- `nsub`: the number of subjects
 - `nlength`: the length of fMRI time series
 - `nroi`: the number of regions-of-interest (ROIs)
  
-2. The default GCN model is used in each of those federated learning methods.
+3. The default GCN model is used in each of those federated learning methods.
 Note that users can also employ other backbone models for federated learning. 
 
-3. Acknowledgments to the following public projects on graph learning and federated learning:
+4. Acknowledgments to the following public projects on graph learning and federated learning:
 [SimSiam](https://github.com/facebookresearch/simsiam),
 [UCGL](https://github.com/mxliu/Unsupervised-Contrastive-Graph-Learning),
 [GCN](https://github.com/tkipf/gcn),
