@@ -80,7 +80,7 @@ In this project, we pretrain several popular encoders on auxiliary fMRI scans. T
 7. Spatio-Temporal Graph Convolutional Network (STGCN)
 8. Graph SAmple and aggreGatE (GraphSAGE) 
 9. Transformer
-10. Modularity-Constrained Graph Neural Network (MCGNN)
+10. Modularity-constrained Graph Neural Network (MGNN)
 
 ### Federated Learning Strategy
 1. Federated Averaging (FedAvg)
