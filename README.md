@@ -76,14 +76,14 @@ In this project, we pretrain several popular encoders on auxiliary fMRI scans. T
 7. Spatio-Temporal Graph Convolutional Network (STGCN)
 8. Graph SAmple and aggreGatE (GraphSAGE) 
 9. Transformer
-10. Modularity-constrained Graph Neural Network (MGNN)
+10. Modularity-Constrained Graph Neural Network (MCGNN)
 
 ### Federated Learning Strategy
 1. Federated Averaging (FedAvg)
 2. Federated Proximal (FedProx)
 3. Model-contrastive federated learning (MOON)
-4. Personalized federated learning with Moreau envelope (pFedMe)
-5. Local global federated averaging (LGFed)
+4. Personalized Federated learning with Moreau envelope (pFedMe)
+5. Local Global Federated Averaging (LGFedAvg)
 
 ### Usage
 You can fine-tune pretrained encoders for various fMRI-based analyses.
