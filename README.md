@@ -126,5 +126,5 @@ Acknowledgments to the following public projects on graph learning and federated
 # License
 The University of North Carolina at Chapel Hill (UNC-CH) holds all rights to the ACTION software, which is available at no cost for users in academia. 
 Individuals are permitted to distribute and modify ACTION under the conditions of the GNU General Public License issued by the Free Software Foundation. 
-Commercial or industrial entities interested in utilizing ACTION must reach out to both the University and the tool's author for permission.  
+Commercial or industrial entities interested in utilizing ACTION must reach out to both UNC-CH and the tool's author for permission.  
 
