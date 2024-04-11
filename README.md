@@ -138,7 +138,7 @@ If you have any problem with our code or have some suggestions, please feel free
 If you use this toolbox or benchmark in your research, please cite this project:
 
 ```
-@misc{dalib,
+@misc{action,
   author = {Yuqi Fang, Junhao Zhang, Linmin Wang, Qianqian Wang, Mingxia Liu},  
   title = {ACTION-Software-for-Functional-MRI-Analysis},  
   year = {2024},  
