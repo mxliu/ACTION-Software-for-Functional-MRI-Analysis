@@ -64,7 +64,7 @@ Software Download: https://mingxia.web.unc.edu/action/
 ### Overview
 
 This module focuses on (1) pretraining foundation models that can easily adapt to downstream tasks for fMRI analysis, and (2) implementing popular federated learning methods to facilitate multi-site fMRI studies. 
-1. The feature encoders of ten deep learning models are pretrained on 3,806 unlabeled fMRI scans from public cohorts in a self-supervised learning manner. In each directory, the `Pretrain_XXX.py` and `Finetune_XXX.py` scripts are the main functions for pretraining and fine-tuning a specific encoder, respectively.
+1. The feature encoders of ten deep learning models are pretrained on 3,806 unlabeled fMRI scans from public cohorts in a self-supervised learning manner. In each directory, the `Pretrain_*.py` and `Finetune_*.py` scripts are the main functions for pretraining and fine-tuning a specific encoder, respectively.
 2. The source code of five federated learning methods are released to the public, where the users can use the pretrained backbone in this toolbox as the encoder for federated learning. 
 
 ### Pretrained Foundation Model
