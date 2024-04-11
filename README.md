@@ -1,4 +1,4 @@
-# ACTION-Open-Source-Software-for-Functional-MRI-Analysis
+# ACTION-Open-Source-Software-for-FMRI-Analysis
 
 The Augmentation and Computation Toolbox for braIn netwOrk aNalysis (ACTION) is an open-source Python software, designed for fMRI data augmentation, brain network construction and visualization, extraction of brain network features, and intelligent analysis of brain networks based on AI models. 
 Through a graphics user interface, the ACTION aims to provide users with comprehensive, convenient, and easy-to-use fMRI data analysis services, helping users simplify the processing pipeline and improve work efficiency.
