@@ -91,10 +91,10 @@ In this project, we pretrain several popular encoders on auxiliary fMRI scans. T
 
 ### Usage
 You can fine-tune pretrained encoders for various fMRI-based analyses.
-Note that the `Finetune_XXX.py` script is just an example of how to finetune our pretrained encoders for classification tasks, and one can modify this code according to different downstream tasks.
+Note that the `Finetune_*.py` script is just an example of how to finetune our pretrained encoders for classification tasks, and one can modify this code according to different downstream tasks.
 
 Specifically, for 'GCN', 'GIN', 'GAT', 'BrainNetCNN', 'GraphSAGE', 'STAGIN', 'STGCN', 'MGNN', and 'Transformer', 
-please input your to-be-analyzed data in the `Data` class of the corresponding `Finetune_XXX.py`,
+please input your to-be-analyzed data in the `Data` class of the corresponding `Finetune_*.py`,
 including fMRI time series with shape of (nsub,nlength,nroi) and label with the shape of (nsub,).
 
 For 'BrainGNN', please input your to-be-analyzed data in `BrainGNN_data.py`,
