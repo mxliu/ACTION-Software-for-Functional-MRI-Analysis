@@ -14,6 +14,16 @@ Software Download: https://mingxia.web.unc.edu/action/
 
 # 2. Brain Network Construction
 
+## Overview
+
+1. Pearson’s Correlation (PC)
+2. Mutual Information (MI)
+3. Partial Correlation
+4. Spearman’s Correlation (SC)
+5. High-Order Functional Connectivity (HOFC)
+6. Sparse Representation (SR)
+7. Low-rank Representation (LR)
+
 # 3. Brain Network Feature Extraction
 
 # 4. Artificial Intelligence Model Construction
@@ -30,6 +40,11 @@ Software Download: https://mingxia.web.unc.edu/action/
 ### Data Partition
 1. K-fold Cross-Validation
 2. Random Partition
+
+### Dimension Reduction
+1. Principle Component Analysis (PCA)
+2. Canonical Correlation Analysis (CCA)
+3. Independent Component Analysis (PCA)
 
 ## 4.2. Deep Learning-based Foundation Model Construction
 ### Overview
@@ -61,7 +76,7 @@ In this project, we pretrain several popular encoders on auxiliary fMRI scans. T
 5. Local global federated averaging (LG-FedAvg)
 
 ### Usage
-You can fine-tune pretrained encoders for various fMRI-based analysis.
+You can fine-tune pretrained encoders for various fMRI-based analyses.
 Note that the `Finetune_XXX.py` script is just an example of how to finetune our pretrained encoders for classification tasks, and one can modify this code according to different downstream tasks.
 
 Specifically, for 'GCN', 'GIN', 'GAT', 'BrainNetCNN', 'GraphSAGE', 'STAGIN', 'STGCN', 'MGNN', and 'Transformer', 
