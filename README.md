@@ -26,7 +26,10 @@ Software Download: https://mingxia.web.unc.edu/action/
 2. Random Forest  
 3. Extreme Gradient Boosting (XGBoost)  
 4. K-Nearest Neighbors (KNN)
-  
+
+### Data Partition
+1. K-fold Cross-Validation
+2. Random Partition
 
 ## 4.2. Deep Learning-based Foundation Model Construction
 ### Overview
@@ -50,6 +53,12 @@ In this project, we pretrain several popular encoders on auxiliary fMRI scans. T
 9. Transformer
 10. Modularity-constrained Graph Neural Network (MGNN)
 
+### Federated Learning Strategy
+1. Federated Averaging (FedAvg)
+2. Federated Proximal (FedProx)
+3. Model-contrastive federated learning (MOON)
+4. Personalized federated learning with Moreau envelope (pFedMe)
+5. Local global federated averaging (LG-FedAvg)
 
 ### Usage
 You can fine-tune pretrained encoders for various fMRI-based analysis.
