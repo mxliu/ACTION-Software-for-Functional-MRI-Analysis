@@ -41,10 +41,11 @@ Software Download: https://mingxia.web.unc.edu/action/
   
 ### Machine Learning Model
 
-1. SVM/SVR  
-2. Random Forest  
-3. Extreme Gradient Boosting (XGBoost)  
-4. K-Nearest Neighbors (KNN)
+1. Support Vector Mahince (SVM)
+2. Support Vector Regression (SVR)  
+3. Random Forest (RF) 
+4. Extreme Gradient Boosting (XGBoost)  
+5. K-Nearest Neighbors (KNN)
 
 ### Data Partition
 1. K-fold Cross Validation
@@ -53,15 +54,15 @@ Software Download: https://mingxia.web.unc.edu/action/
 ### Dimension Reduction
 1. Principle Component Analysis (PCA)
 2. Canonical Correlation Analysis (CCA)
-3. Independent Component Analysis (PCA)
+3. Independent Component Analysis (ICA)
 
 ## 4.2. Deep Learning-based Foundation Model Construction
 
 ### Overview
 
-This module focuses on pretraining foundation models that can easily adapt to downstream tasks for fMRI analysis. 
-The feature encoders of these models are pretrained on 3,806 unlabeled fMRI scans from public cohorts in a self-supervised learning manner. 
-In each directory, the `Pretrain_XXX.py` and `Finetune_XXX.py` scripts are the main functions for pretraining and fine-tuning a specific encoder, respectively.
+This module focuses on (1) pretraining foundation models that can easily adapt to downstream tasks for fMRI analysis, and (2) implementing popular federated learning methods to facilitate multi-site fMRI studies. 
+1. The feature encoders of ten deep learning models are pretrained on 3,806 unlabeled fMRI scans from public cohorts in a self-supervised learning manner. In each directory, the `Pretrain_XXX.py` and `Finetune_XXX.py` scripts are the main functions for pretraining and fine-tuning a specific encoder, respectively.
+2. The source code of five federated learning methods are released to the public, where the users can use the pre-trained backbone as encoder for federated learning. 
 
 ### Pretrained Foundation Model
 
