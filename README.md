@@ -106,7 +106,7 @@ Ensure that your data includes fMRI time series with a shape of (nsub, nlength, 
 - `nroi`: the number of regions-of-interest (ROIs)
  
 
-Acknowledgments to the following public projects:
+Acknowledgments to the following public projects on graph learning and federated learning:
 [SimSiam](https://github.com/facebookresearch/simsiam),
 [UCGL](https://github.com/mxliu/Unsupervised-Contrastive-Graph-Learning),
 [GCN](https://github.com/tkipf/gcn)
@@ -116,7 +116,10 @@ Acknowledgments to the following public projects:
 [BrainNetCNN](https://github.com/nicofarr/brainnetcnnVis_pytorch/tree/master),
 [GraphSAGE](https://github.com/williamleif/graphsage-simple),
 [STAGIN](https://github.com/egyptdj/stagin),
-[STGCN](https://github.com/sgadgil6/cnslab_fmri).
+[STGCN](https://github.com/sgadgil6/cnslab_fmri);
+
+
+
 
 
 # License
