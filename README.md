@@ -139,7 +139,7 @@ If you use this toolbox or benchmark in your research, please cite this project:
 
 ```
 @misc{action,
-  author = {Yuqi Fang, Junhao Zhang, Linmin Wang, Qianqian Wang, Mingxia Liu},  
+  author = {Fang, Yuqi and Zhang, Junhao and Wang, Linmin and Wang, Qianqian and Liu, Mingxia},  
   title = {ACTION-Software-for-Functional-MRI-Analysis},  
   year = {2024},  
   publisher = {GitHub},
