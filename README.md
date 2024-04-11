@@ -84,7 +84,7 @@ In this project, we pretrain several popular graph convolutional networks on aux
 
 ### Federated Learning Strategy
 
-To faciliate multi-site fMRI research, this toolbox includes popular federated learning algorithms (with a default GCN backbone):
+To faciliate multi-site fMRI research, this toolbox includes popular federated learning algorithms:
 1. Federated Averaging (FedAvg)
 2. Federated Proximal (FedProx)
 3. Model-contrastive federated learning (MOON)
@@ -108,7 +108,7 @@ including fMRI time series with shape of (nsub,nlength,nroi) and label with the 
 - `nlength`: the length of fMRI time series
 - `nroi`: the number of regions-of-interest (ROIs)
  
-3. The default GCN model is used in each of those federated learning methods.
+3. A default GCN model is used in each of those federated learning methods.
 Note that users can also employ other backbone models for federated learning. 
 
 4. Acknowledgments to the following public projects on graph learning and federated learning:
