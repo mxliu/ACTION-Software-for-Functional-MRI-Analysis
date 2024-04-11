@@ -25,8 +25,6 @@ Software Download: https://mingxia.web.unc.edu/action/
 
 # 2. Brain Network Construction
 
-## Overview
-
 1. Pearson’s Correlation (PC)
 2. Mutual Information (MI)
 3. Partial Correlation
@@ -41,7 +39,7 @@ Software Download: https://mingxia.web.unc.edu/action/
 
 ## 4.1. Machine Learning Model Construction 
   
-### Overview
+### Machine Learning Model
 
 1. SVM/SVR  
 2. Random Forest  
@@ -58,6 +56,7 @@ Software Download: https://mingxia.web.unc.edu/action/
 3. Independent Component Analysis (PCA)
 
 ## 4.2. Deep Learning-based Foundation Model Construction
+
 ### Overview
 
 This module focuses on pretraining foundation models that can easily adapt to downstream tasks for fMRI analysis. 
