@@ -109,7 +109,7 @@ Ensure that your data includes fMRI time series with a shape of (nsub, nlength, 
 Acknowledgments to the following public projects on graph learning and federated learning:
 [SimSiam](https://github.com/facebookresearch/simsiam),
 [UCGL](https://github.com/mxliu/Unsupervised-Contrastive-Graph-Learning),
-[GCN](https://github.com/tkipf/gcn)
+[GCN](https://github.com/tkipf/gcn),
 [GAT](https://github.com/gordicaleksa/pytorch-GAT),
 [Transformer](https://github.com/gordicaleksa/pytorch-original-transformer/tree/main),
 [BrainGNN](https://github.com/xxlya/BrainGNN_Pytorch),
