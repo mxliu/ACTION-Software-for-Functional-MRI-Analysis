@@ -35,6 +35,9 @@ Software Download: https://mingxia.web.unc.edu/action/
 
 # 3. Brain Network Feature Extraction
 
+1. Node level feature extraction
+2. Graph level feature extraction
+   
 # 4. Artificial Intelligence Model Construction
 
 ## 4.1. Machine Learning Model Construction 
