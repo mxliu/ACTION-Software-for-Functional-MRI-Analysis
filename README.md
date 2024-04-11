@@ -116,9 +116,8 @@ Acknowledgments to the following public projects on graph learning and federated
 [BrainNetCNN](https://github.com/nicofarr/brainnetcnnVis_pytorch/tree/master),
 [GraphSAGE](https://github.com/williamleif/graphsage-simple),
 [STAGIN](https://github.com/egyptdj/stagin),
-[STGCN](https://github.com/sgadgil6/cnslab_fmri); 
-
-
+[STGCN](https://github.com/sgadgil6/cnslab_fmri),
+[MGNN](https://github.com/mxliu/Brain-Modularity-Prior-Modeling-for-fMRI-Analysis);
 
 
 
