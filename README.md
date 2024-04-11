@@ -9,8 +9,19 @@ Software Download: https://mingxia.web.unc.edu/action/
 
 # 1. FMRI Data Augmentation
 ## 1.1. BOLD Signal Augmentation 
+
+1. Upsampling
+2. Downsampling
+3. Slicing
+4. Noise Jittering
  
 ## 1.2. Brain Network/Graph Data Augmentation
+
+1. Random Node Dropping
+2. Hub-Preserving Node Dropping
+3. Random Edge Perturbation
+4. Weight-Dependent Edge Removal
+5. Subgraph Cropping:
 
 # 2. Brain Network Construction
 
