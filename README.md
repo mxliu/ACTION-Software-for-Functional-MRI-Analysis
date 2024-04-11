@@ -138,12 +138,19 @@ If you have any problem with our code or have some suggestions, please feel free
 If you use this toolbox or benchmark in your research, please cite this project:
 
 @misc{dalib,
+
   author = {Yuqi Fang, Junhao Zhang, Linmin Wang, Qianqian Wang, Mingxia Liu},
+  
   title = {ACTION-Software-for-Functional-MRI-Analysis},
+  
   year = {2024},
+  
   publisher = {GitHub},
+  
   journal = {GitHub Repository},
+  
   howpublished = {\url{https://github.com/mxliu/ACTION-Software-for-Functional-MRI-Analysis}},
+  
 }
 
 
