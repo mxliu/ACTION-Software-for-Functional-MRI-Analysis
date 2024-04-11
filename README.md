@@ -38,7 +38,7 @@ Software Download: https://mingxia.web.unc.edu/action/
 4. K-Nearest Neighbors (KNN)
 
 ### Data Partition
-1. K-fold Cross-Validation
+1. K-fold Cross Validation
 2. Random Partition
 
 ### Dimension Reduction
