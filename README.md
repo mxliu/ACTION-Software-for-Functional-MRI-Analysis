@@ -84,7 +84,7 @@ In this project, we pretrain several popular encoders on auxiliary fMRI scans. T
 2. Federated Proximal (FedProx)
 3. Model-contrastive federated learning (MOON)
 4. Personalized federated learning with Moreau envelope (pFedMe)
-5. Local global federated averaging (LG-FedAvg)
+5. Local global federated averaging (LGFed)
 
 ### Usage
 You can fine-tune pretrained encoders for various fMRI-based analyses.
