@@ -84,7 +84,7 @@ In this project, we pretrain several popular graph convolutional networks on aux
 
 ### Federated Learning Strategy
 
-To faciliate multi-site fMRI research, this toolbox includes popular federated learning algorithms:
+To faciliate multi-site fMRI research, this toolbox includes several popular federated learning algorithms:
 1. Federated Averaging (FedAvg)
 2. Federated Proximal (FedProx)
 3. Model-contrastive federated learning (MOON)
