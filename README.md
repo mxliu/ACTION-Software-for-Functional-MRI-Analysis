@@ -3,8 +3,6 @@
 The Augmentation and Computation Toolbox for braIn netwOrk aNalysis (ACTION) is an open-source Python software, designed for functional MRI data augmentation, brain network construction and visualization, extraction of brain network features, and intelligent analysis of brain networks based on AI models pretrained on 3,800+ resting-state fMRI scans. 
 Through a graphics user interface, the ACTION aims to provide users with comprehensive, convenient, and easy-to-use fMRI data analysis services, helping users simplify the processing pipeline and improve work efficiency.
 
-Authors: Yuqi Fang, Junhao Zhang, Linmin Wang, Qianqian Wang, Mingxia Liu
-
 Software Download: https://mingxia.web.unc.edu/action/
 
 # 1. FMRI Data Augmentation
@@ -124,7 +122,25 @@ Note that users can also employ other backbone models for federated learning.
 [STGCN](https://github.com/sgadgil6/cnslab_fmri),
 [MGNN](https://github.com/mxliu/Brain-Modularity-Prior-Modeling-for-fMRI-Analysis);
 
+# Contact
+If you have any problem with our code or have some suggestions, please feel free to contact us: 
 
+- Yuqi Fang (yuqifang@email.unc.edu)
+- Qianqian Wang (qqw@email.unc.edu)
+- Mingxia Liu (mingxia_liu@med.unc.edu)
+
+
+# Citation
+If you use this toolbox or benchmark in your research, please cite this project:
+
+@misc{dalib,
+  author = {Yuqi Fang, Junhao Zhang, Linmin Wang, Qianqian Wang, Mingxia Liu},
+  title = {ACTION-Software-for-Functional-MRI-Analysis},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{https://github.com/mxliu/ACTION-Software-for-Functional-MRI-Analysis}},
+}
 
 
 # License
