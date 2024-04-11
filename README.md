@@ -61,7 +61,7 @@ Software Download: https://mingxia.web.unc.edu/action/
 2. Canonical Correlation Analysis (CCA)
 3. Independent Component Analysis (ICA)
 
-## 4.2. Deep Learning-based Foundation Model Construction
+## 4.2. Deep Learning Foundation Model Construction
 
 ### Overview
 
