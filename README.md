@@ -90,10 +90,11 @@ In this project, we pretrain several popular encoders on auxiliary fMRI scans. T
 5. Local Global Federated Averaging (LGFedAvg)
 
 ### Usage
-You can fine-tune pretrained encoders for various fMRI-based analyses.
+
+1. You can fine-tune pretrained encoders for various fMRI-based analyses.
 Note that the `Finetune_*.py` script is just an example of how to finetune our pretrained encoders for classification tasks, and one can modify this code according to different downstream tasks.
 
-Specifically, for 'GCN', 'GIN', 'GAT', 'BrainNetCNN', 'GraphSAGE', 'STAGIN', 'STGCN', 'MGNN', and 'Transformer', 
+For 'GCN', 'GIN', 'GAT', 'BrainNetCNN', 'GraphSAGE', 'STAGIN', 'STGCN', 'MGNN', and 'Transformer', 
 please input your to-be-analyzed data in the `Data` class of the corresponding `Finetune_*.py`,
 including fMRI time series with shape of (nsub,nlength,nroi) and label with the shape of (nsub,).
 
@@ -105,8 +106,10 @@ Ensure that your data includes fMRI time series with a shape of (nsub, nlength, 
 - `nlength`: the length of fMRI time series
 - `nroi`: the number of regions-of-interest (ROIs)
  
+2. The default GCN model is used in each of those federated learning methods.
+Note that users can also employ other backbone models for federated learning. 
 
-Acknowledgments to the following public projects on graph learning and federated learning:
+3. Acknowledgments to the following public projects on graph learning and federated learning:
 [SimSiam](https://github.com/facebookresearch/simsiam),
 [UCGL](https://github.com/mxliu/Unsupervised-Contrastive-Graph-Learning),
 [GCN](https://github.com/tkipf/gcn),
