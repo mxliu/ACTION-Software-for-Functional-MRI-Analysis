@@ -142,7 +142,7 @@ If you have any problem with our code or have some suggestions, please feel free
 
 
 # Citation
-If you use this toolbox or benchmark in your research, please cite this project:
+If you use this toolbox in your research, please cite this project:
 
 ```
 @misc{action,
