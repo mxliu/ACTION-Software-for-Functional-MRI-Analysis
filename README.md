@@ -111,7 +111,7 @@ including fMRI time series with shape of (nsub,nlength,nroi) and label with the 
 - `nroi`: the number of regions-of-interest (ROIs)
  
 3. A default GCN model is used in each federated learning method.
-Note that users can also employ other backbone models for federated learning. 
+Users can also employ other backbone models for federated learning. 
 
 4. Acknowledgments to the following public projects:
 [SimSiam](https://github.com/facebookresearch/simsiam),
