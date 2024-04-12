@@ -113,7 +113,7 @@ including fMRI time series with shape of (nsub,nlength,nroi) and label with the 
 3. A default GCN model is used in each of those federated learning methods.
 Note that users can also employ other backbone models for federated learning. 
 
-4. Acknowledgments to the following public projects on graph learning and federated learning:
+4. Acknowledgments to the following public projects:
 [SimSiam](https://github.com/facebookresearch/simsiam),
 [UCGL](https://github.com/mxliu/Unsupervised-Contrastive-Graph-Learning),
 [GCN](https://github.com/tkipf/gcn),
