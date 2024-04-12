@@ -125,6 +125,11 @@ Note that users can also employ other backbone models for federated learning.
 [STAGIN](https://github.com/egyptdj/stagin),
 [STGCN](https://github.com/sgadgil6/cnslab_fmri),
 [MGNN](https://github.com/mxliu/Brain-Modularity-Prior-Modeling-for-fMRI-Analysis);
+[FedAvg](https://github.com/shaoxiongji/federated-learning/tree/master),
+[FedProx](https://github.com/mmendiet/FedAlign/blob/main/methods/fedprox.py),
+[MOON](https://github.com/QinbinLi/MOON),
+[pFedMe](https://github.com/CharlieDinh/pFedMe/tree/master),
+[LGFedAvg](https://github.com/pliang279/LG-FedAvg).
 
 # Contact
 If you have any problem with our code or have some suggestions, please feel free to contact us: 
