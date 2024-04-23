@@ -16,6 +16,7 @@ Software Download: https://mingxia.web.unc.edu/action/
 2. Downsampling
 3. Slicing
 4. Noise Jittering
+5. Self-Defined Algorithm
  
 ## 1.2. Graph Augmentation
 
@@ -24,6 +25,7 @@ Software Download: https://mingxia.web.unc.edu/action/
 3. Random Edge Perturbation
 4. Weight-Dependent Edge Removal
 5. Subgraph Cropping
+6. Self-Defined Algorithm
 
 # 2. Brain Network Construction
 
@@ -34,6 +36,7 @@ Software Download: https://mingxia.web.unc.edu/action/
 5. High-Order Functional Connectivity (HOFC)
 6. Sparse Representation (SR)
 7. Low-rank Representation (LR)
+8. Self-Defined Algorithm
 
 # 3. Brain Network Feature Extraction
 
@@ -51,6 +54,7 @@ Software Download: https://mingxia.web.unc.edu/action/
 3. Random Forest (RF) 
 4. Extreme Gradient Boosting (XGBoost)  
 5. K-Nearest Neighbors (KNN)
+6. Self-Defined Algorithm
 
 ### Data Partition
 1. K-fold Cross Validation
