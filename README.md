@@ -62,8 +62,8 @@ Software Download: https://mingxia.web.unc.edu/action/
 
 ### Dimension Reduction
 1. Principle Component Analysis (PCA)
-2. Canonical Correlation Analysis (CCA)
-3. Independent Component Analysis (ICA)
+2. Univariate Feature Selection (UFS)
+3. T-test
 
 ## 4.2. Deep Learning Foundation Model Construction
 
