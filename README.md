@@ -25,7 +25,8 @@ Software Download: https://mingxia.web.unc.edu/action/
 3. Random Edge Perturbation
 4. Weight-Dependent Edge Removal
 5. Subgraph Cropping
-6. Self-Defined Algorithm
+6. Attribute Masking
+7. Self-Defined Algorithm
 
 # 2. Brain Network Construction
 
@@ -60,7 +61,7 @@ Software Download: https://mingxia.web.unc.edu/action/
 1. K-fold Cross Validation
 2. Random Partition
 
-### Dimension Reduction
+### Feature Selection
 1. Principle Component Analysis (PCA)
 2. Univariate Feature Selection (UFS)
 3. T-test
