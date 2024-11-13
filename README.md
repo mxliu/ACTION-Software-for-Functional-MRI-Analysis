@@ -139,7 +139,7 @@ Users can also employ other backbone models for federated learning.
 # Contact
 If you have any problem with our code or have some suggestions, please feel free to contact us: 
 
-- Yuqi Fang (yuqifang@email.unc.edu)
+- Yuqi Fang (yuqi9199@gmail.com)
 - Junhao Zhang (zhangjunhao123333@163.com)
 - Linmin Wang (w17860361619@163.com)
 - Qianqian Wang (qqw@email.unc.edu)
