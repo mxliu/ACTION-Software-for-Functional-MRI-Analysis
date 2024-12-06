@@ -147,12 +147,12 @@ If you have any problem with our code or have some suggestions, please feel free
 
 
 # Citation
-If you use this toolbox in your research, please cite this project:
+If you use this toolbox in your research, please cite this paper:
 
 ```
-@misc{action,
+@article{action,
   author = {Fang, Yuqi and Zhang, Junhao and Wang, Linmin and Wang, Qianqian and Liu, Mingxia},  
-  title = {ACTION-Software-for-Functional-MRI-Analysis},  
+  title = {ACTION: Augmentation and computation toolbox for brain network analysis with functional MRI},  
   year = {2025},  
   journal = {NeuroImage} 
 }
