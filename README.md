@@ -153,10 +153,8 @@ If you use this toolbox in your research, please cite this project:
 @misc{action,
   author = {Fang, Yuqi and Zhang, Junhao and Wang, Linmin and Wang, Qianqian and Liu, Mingxia},  
   title = {ACTION-Software-for-Functional-MRI-Analysis},  
-  year = {2024},  
-  publisher = {GitHub},
-  journal = {GitHub Repository},  
-  howpublished = {\url{https://github.com/mxliu/ACTION-Software-for-Functional-MRI-Analysis}},  
+  year = {2025},  
+  journal = {NeuroImage} 
 }
 ```
 
