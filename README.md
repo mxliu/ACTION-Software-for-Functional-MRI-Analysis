@@ -150,11 +150,11 @@ If you have any problem with our code or have some suggestions, please feel free
 If you use this toolbox in your research, please cite this paper:
 
 ```
-@article{action,
+@article{action2025,
   author = {Fang, Yuqi and Zhang, Junhao and Wang, Linmin and Wang, Qianqian and Liu, Mingxia},  
   title = {ACTION: Augmentation and computation toolbox for brain network analysis with functional MRI},  
-  year = {2025},  
-  journal = {NeuroImage} 
+  journal = {NeuroImage},
+  year = {2025}
 }
 ```
 
