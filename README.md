@@ -88,6 +88,9 @@ In this project, we pretrain several popular graph convolutional networks on aux
 8. Graph SAmple and aggreGatE (GraphSAGE) 
 9. Transformer
 10. Modularity-constrained Graph Neural Network (MGNN)
+11. Hyperbolic Graph Convolutional Network (HGCN)
+12. Hyperbolic Kernel Graph Convolutional Network (HKGCN)
+13. Hyperbolic Kernel Graph Attention Network (HKGAT) 
 
 ### Federated Learning Strategy
 
